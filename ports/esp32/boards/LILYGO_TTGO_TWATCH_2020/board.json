@@ -1,0 +1,29 @@
+{
+    "deploy": [
+        "../deploy.md"
+    ],
+    "docs": "https://github.com/Xinyuan-LilyGO/TTGO_TWatch_Library",
+    "features": [
+        "SmartWatch",
+        "BLE",
+        "WiFi",
+        "SPIRAM",
+        "PMU",
+        "IMU",
+        "RTC",
+        "IR",
+        "Motor",
+        "SDCard",
+        "GPS",
+        "Microphone",
+        "Speaker"
+    ],
+    "images": [
+        "lilygo-ttgo-twatch2020.jpg"
+    ],
+    "mcu": "esp32",
+    "product": "LilyGO TTGO T-Watch 2020",
+    "thumbnail": "",
+    "url": "https://github.com/Xinyuan-LilyGO/TTGO_TWatch_Library",
+    "vendor": "LilyGO"
+}
